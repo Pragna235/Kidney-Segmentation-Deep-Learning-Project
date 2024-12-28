@@ -6,4 +6,4 @@
  
 * Data loading and visualization (without altering the dataset( along with the instances folder that contains annotations of kidneys and tumors - `kitsWorkspace_2` : _Output_ : `visualizations` folder, `visualization_progress.txt` file
 
-* Data Preprocessing step 1 - Windowing - `kitsWorkspace_3` : _output_ : `windowed_visualizations` folder, 
+* Data Preprocessing step 1 - Windowing - `kitsWorkspace_3` : _output_ : `windowed_images` folder, `windowed_visualizations` folder, `windowed_visulization.txt` file
