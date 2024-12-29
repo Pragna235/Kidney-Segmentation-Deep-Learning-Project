@@ -12,3 +12,5 @@
 * Data Preprocessing steps 2 & 3 - Voxel Spacing Adjustment and Image Slicing : `kitsWorkspace_4` : _Output_ : `resampled_and_sliced_images` folder (.nii.gz images)(approx 190 gb), `resampled_visualization` folder (png images) and `resampled_progress.txt` file.
 
 * Model Architecture - Encoder, Decoder, Loss functions : `kitsWorkspace_5` (part 1)
+
+* Coronal, Sagittal and Axial visualizations (Data preprocessing experimentation) - `kitsWorkspace_6`
