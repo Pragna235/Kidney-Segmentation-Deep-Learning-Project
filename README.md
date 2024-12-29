@@ -14,3 +14,5 @@
 * Model Architecture - Encoder, Decoder, Loss functions : `kitsWorkspace_5` (part 1)
 
 * Coronal, Sagittal and Axial visualizations (Data preprocessing experimentation) - `kitsWorkspace_6`
+
+* Resampling of the Ground truths as well (Segmentation files) Pre-precessing : `kitsWorkspace_7` : _Output_ : `resampled_and_sliced_segmentations_files` folder (.nii.gz files), `segmentation_visualizations` folder (aka resampled_segmentation_visualizations) (png files) and `segmentation_progress.txt` file
