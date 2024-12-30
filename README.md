@@ -18,3 +18,5 @@
 
 * Resampling of the Ground truths as well (Segmentation files) Pre-precessing : `kitsWorkspace_7` : _Output_ : `resampled_and_sliced_segmentations_files` folder (.nii.gz files), `segmentation_visualizations` folder (aka resampled_segmentation_visualizations) (png files) and `segmentation_progress.txt` file
   - `resampled_and_sliced_segmentation_files` : https://drive.google.com/drive/folders/1pFqwRAfT1_xifrfoz0TFkfmXYNhx932h?usp=sharing
+ 
+* Extraction of 2D slices from the 3D images for training purposes : `kitsWorkspace_9`
