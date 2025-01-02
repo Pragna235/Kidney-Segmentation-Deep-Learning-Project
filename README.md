@@ -20,3 +20,9 @@
   - `resampled_and_sliced_segmentation_files` : https://drive.google.com/drive/folders/1pFqwRAfT1_xifrfoz0TFkfmXYNhx932h?usp=sharing
  
 * Extraction of 2D slices from the 3D images for training purposes : `kitsWorkspace_9`
+
+* Extraction of 2D slices from the 3D images for training purposes attempt 2 : `kitsWorkspace_10` : _Output_ : `2d_slices` folder ( which contains 2 more folders names `images` and `masks` where again each contains 489 case folders again where each case folder contains the images of the number of slices present in .nii.gz format )
+  - `E:\kits23\2d_slices\images\00000\slice_000.nii.gz`
+  - `E:\kits23\2d_slices\masks\00000\slice_000.nii.gz`
+
+  - Another output is the `png_slices` folder that contains the same hierarchy as above where instead of the .nii.gz format, all files are in a viewable .png format
