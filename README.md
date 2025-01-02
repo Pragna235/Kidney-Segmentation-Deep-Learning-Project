@@ -27,3 +27,4 @@
 
   - Another output is the `png_slices` folder that contains the same hierarchy as above where instead of the .nii.gz format, all files are in a viewable .png format
   - Another output is the `zip_slices` format where some of the `png_slices` folder's files are uploaded for later purposes. Currently, `kitsWorkspace_10`'s output's are stored in the External harddisk, so for future purposes, some of those output are saved in the form of zip files for viewing in case.
+  - Another output : `processed_cases.json` file (for checking the progress)
