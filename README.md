@@ -30,3 +30,4 @@
   - Another output : `processed_cases.json` file (for checking the progress)
  
 * Model Training attempt 1 : `kitsWorkspace_11`
+* Model Training attempt 2 : `kitsWorkspace_12`
